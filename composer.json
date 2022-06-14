@@ -1,0 +1,20 @@
+{
+  "name": "williamvilas/api-loteria-resultados",
+  "description": "",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "William Vilas Boas",
+      "email": "williamhenriquevilasboas@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "WilliamVilas\\Loteria\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
